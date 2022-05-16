@@ -1,0 +1,1 @@
+console.table(["Ahmed","mohammed","Ali","salam"]);
